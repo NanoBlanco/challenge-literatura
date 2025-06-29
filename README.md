@@ -26,7 +26,7 @@ Debes crear la base de datos challenge_literatura (motor de bases PostgreSQL)
 
 ## Base de datos
 - PostgreSQL
--![PostgreSQL] 
+![PostgreSQL](https://img.icons8.com/?size=100&id=36440&format=png&color=000000)
 # ✨ Aplicación para Administrar una libreria personal
 
 # Instalación
