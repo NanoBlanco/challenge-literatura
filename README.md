@@ -54,7 +54,7 @@ Debes crear la base de datos challenge_literatura (motor de bases PostgreSQL)
 
 ## Base de datos
 - PostgreSQL
--![PostgreSQL] (https://icons8.com/icon/JRnxU7ZWP4mi/postgresql)
+-![PostgreSQL](https://img.icons8.com/?size=100&id=36440&format=png&color=000000)
  - Sistema de gestión de bases de datos relacional ampliamente utilizado.
 
 ## Pruebas y Documentación de API
